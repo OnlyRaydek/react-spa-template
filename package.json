@@ -45,5 +45,9 @@
     "gh-pages": "^3.1.0",
     "node-sass": "^4.0.0"
   },
+<<<<<<< HEAD
   "homepage": "https://onlyraydek.github.io/react-template/"
+=======
+  "homepage": "https://onlyraydek.github.io/react-template"
+>>>>>>> f9033663c6106ea88ba0e8f0576ea036a23b9f47
 }
