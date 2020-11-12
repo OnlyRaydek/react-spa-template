@@ -3,6 +3,7 @@ import './SidebarMembers.scss';
 
 const SidebarMembers = () => (
   <>
+    <p>Image</p>
   </>
 );
 
